@@ -15,9 +15,10 @@ int main()
 
     cout << "If you have ";
     cout << number_of_pods;
-    cout << " pea pods\n and";
+    cout << " pea pods\n and ";
     cout << peas_per_pod;
-    cout << "peas in each pod, then\n you have ";
+    cout << "peas in each pod, then\n";
+    cout << "you have ";
     cout << total_peas;
     cout << " peas in all the pods.\n";
 
